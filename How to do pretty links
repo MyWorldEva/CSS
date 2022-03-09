@@ -1,0 +1,38 @@
+First of all, paste this into index.html: ↓
+
+<nav>
+    <ul>
+        <li><a href="#" class="first-item-menu">First</a></li>
+        <li><a href="#" class="second-item-menu">Second</a></li>
+        <li><a href="#" class="third-item-menu">Third</a></li>
+    </ul>
+
+Now, paste this into style.css: ↓
+
+
+nav ul {
+        padding: 0;
+    }
+    
+    nav ul li {
+    
+        display: inline-block;
+        list-style-type:  none;
+    }
+    
+    nav li a {
+    
+        text-decoration: none;
+        font-size: 20px;
+        border: 2px solid #c99f3e;
+        padding: 5px 15px;
+        border-radius: 100px;
+        color: white;
+        background: seagreen
+    
+    }
+    
+    nav li a:hover {
+    
+        background: rgb(117, 160, 53);
+    }
