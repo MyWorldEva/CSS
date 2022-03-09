@@ -1,0 +1,12 @@
+Interested in making your Welcome message colored? Copy this code: ↓
+
+h1 {
+
+    color: rgb(187, 255, 0);
+    background: rgb(0, 89, 255)
+} 
+
+
+
+
+❗ MAKE SURE YOUR TEXT IS H1 FOR DO THIS IF IT'S NOT H1 THEN CHANGE THE H1 TO WHATEVER TEXT YOU WANT ❗
